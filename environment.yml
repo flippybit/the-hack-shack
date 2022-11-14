@@ -6,4 +6,5 @@ channels:
 dependencies:
   - python=3.9
   - pydata-sphinx-theme
+  - myst_parser
   - pip
