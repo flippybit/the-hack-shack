@@ -1,4 +1,8 @@
 # Using markdown on the hack shack
 
-```{tableofcontents}
+```{toctree}
+:caption: Development
+:hidden:
+
+ros/the-hiearchy
 ```
