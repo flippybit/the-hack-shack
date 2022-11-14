@@ -7,5 +7,5 @@ html_sidebars = {
 }
 
 html_theme_options = {
-  "show_nav_level": 2
+  "show_nav_level": 0
 }
