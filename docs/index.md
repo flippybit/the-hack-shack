@@ -24,9 +24,8 @@ recommendations
 :caption: Development
 :hidden:
 
-contributing/index
+ros/the-hiearchy
 kitchen-sink/index
-stability
 changelog
 license
 ```
