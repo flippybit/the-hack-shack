@@ -25,6 +25,7 @@ recommendations
 :hidden:
 
 ros/the-hiearchy
+ros/the-test
 kitchen-sink/index
 changelog
 license

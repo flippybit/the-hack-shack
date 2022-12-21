@@ -4,3 +4,4 @@ parts:
 - caption: ROS
   chapters:
   - file: ros/the-hiearchy
+  - file: ros/the-test
