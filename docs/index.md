@@ -17,9 +17,6 @@ but hard to configure
 
 quickstart
 ros/the-test
-customisation/index
-reference/index
-recommendations
 ```
 
 ```{toctree}
