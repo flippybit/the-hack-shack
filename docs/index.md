@@ -16,6 +16,7 @@ but hard to configure
 :hidden:
 
 quickstart
+ros/the-test
 customisation/index
 reference/index
 recommendations
