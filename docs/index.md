@@ -7,7 +7,7 @@ hide-toc: true
 A clean customisable Sphinx documentation theme.
 but hard to configure 
 
-```{include} ../README.md
+```{include}
 :start-after: <!-- start elevator-pitch -->
 :end-before: <!-- end elevator-pitch -->
 ```
@@ -17,7 +17,7 @@ but hard to configure
 :hidden:
 
 cryptography/index
-ros
+ros/index
 quickstart
 ros/the-test
 ```
