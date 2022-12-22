@@ -24,6 +24,5 @@ ros/the-test
 :hidden:
 
 ros/the-hiearchy
-changelog
 license
 ```
