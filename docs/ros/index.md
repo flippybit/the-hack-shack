@@ -5,7 +5,7 @@
 ```{toctree}
 :hidden:
 
-the-hiearachy
+the-hierarchy
 the-test
 ```
 
