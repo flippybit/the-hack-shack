@@ -20,5 +20,4 @@ cryptography/index
 ros/index
 quickstart
 ros/the-test
-
-# Welcome the Open-Motion
+```
