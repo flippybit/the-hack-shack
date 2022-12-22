@@ -27,7 +27,6 @@ recommendations
 :hidden:
 
 ros/the-hiearchy
-kitchen-sink/index
 changelog
 license
 ```
