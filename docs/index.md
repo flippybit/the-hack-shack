@@ -16,36 +16,8 @@ but hard to configure
 :caption: Linux
 :hidden:
 
-quickstart
-ros/the-test
-```
-```{toctree}
-:caption: Cryptography
-:hidden:
-
 cryptography/index
-```
-
-```{toctree}
-:caption: Linux
-:hidden:
-
-quickstart
-ros/the-test
-```
-
-
-```{toctree}
-:caption: ROS
-:hidden:
-
-ros/the-hiearchy
-license
-```
-```{toctree}
-:caption: Tooling
-:hidden:
-
+ros
 quickstart
 ros/the-test
 ```
