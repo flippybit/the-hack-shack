@@ -2,12 +2,12 @@
 hide-toc: true
 ---
 
-# The hack- shack
+# The hack-shack
 
 A clean customisable Sphinx documentation theme.
 but hard to configure 
 
-```{include}
+```{include}../README.md
 :start-after: <!-- start elevator-pitch -->
 :end-before: <!-- end elevator-pitch -->
 ```
@@ -20,4 +20,5 @@ cryptography/index
 ros/index
 quickstart
 ros/the-test
-```
+
+# Welcome the Open-Motion
