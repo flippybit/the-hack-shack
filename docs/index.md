@@ -23,8 +23,7 @@ ros/the-test
 :caption: Cryptography
 :hidden:
 
-quickstart
-ros/the-test
+cryptography/index
 ```
 
 ```{toctree}
