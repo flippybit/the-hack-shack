@@ -12,5 +12,10 @@ but hard to configure
 
 cryptography/index
 ros/index
+c++/index
+computer-vision/index
+tooling/index
+python/index
 quickstart
+linux/index
 ```
